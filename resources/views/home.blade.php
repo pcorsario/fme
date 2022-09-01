@@ -13,7 +13,7 @@
                             {{ session('status') }}
                         </div>
                     @endif
-
+CAMBIOS REALIZADOS DESDE VSCODE
                     {{ __('You are logged in!') }}
                 </div>
             </div>
